@@ -1,0 +1,42 @@
+data = """08:04:07,882 RESPONSE: SUCCESS, Interface: C8/0/1, TotalDevices: 625, MessageSize(KB): 43.28
+08:04:04,881 RESPONSE: SUCCESS, Interface: C8/0/0, TotalDevices: 739, MessageSize(KB): 46.15
+08:04:01,877 RESPONSE: SUCCESS, Interface: C7/0/7, TotalDevices: 539, MessageSize(KB): 41.88
+08:03:58,873 RESPONSE: SUCCESS, Interface: C7/0/6, TotalDevices: 649, MessageSize(KB): 47.95
+08:03:55,871 RESPONSE: SUCCESS, Interface: C7/0/5, TotalDevices: 191, MessageSize(KB): 14.99
+08:03:52,867 RESPONSE: SUCCESS, Interface: C7/0/4, TotalDevices: 1050, MessageSize(KB): 82.23
+08:03:49,864 RESPONSE: SUCCESS, Interface: C7/0/3, TotalDevices: 57, MessageSize(KB): 4.08
+08:03:46,860 RESPONSE: SUCCESS, Interface: C7/0/2, TotalDevices: 406, MessageSize(KB): 32.21
+08:03:43,859 RESPONSE: SUCCESS, Interface: C7/0/1, TotalDevices: 169, MessageSize(KB): 11.87
+08:03:40,854 RESPONSE: SUCCESS, Interface: C7/0/0, TotalDevices: 371, MessageSize(KB): 24.99
+08:03:37,850 RESPONSE: SUCCESS, Interface: C6/0/7, TotalDevices: 278, MessageSize(KB): 19.25
+08:03:34,848 RESPONSE: SUCCESS, Interface: C6/0/6, TotalDevices: 693, MessageSize(KB): 48.36
+08:03:31,844 RESPONSE: SUCCESS, Interface: C6/0/4, TotalDevices: 575, MessageSize(KB): 41.39
+08:03:28,840 RESPONSE: SUCCESS, Interface: C6/0/3, TotalDevices: 839, MessageSize(KB): 56.81
+08:03:25,835 RESPONSE: SUCCESS, Interface: C6/0/2, TotalDevices: 1282, MessageSize(KB): 89.69
+08:03:22,832 RESPONSE: SUCCESS, Interface: C6/0/1, TotalDevices: 803, MessageSize(KB): 59.92
+08:03:19,828 RESPONSE: SUCCESS, Interface: C6/0/0, TotalDevices: 435, MessageSize(KB): 29.09
+08:03:16,827 RESPONSE: SUCCESS, Interface: C3/0/7, TotalDevices: 929, MessageSize(KB): 62.55
+08:03:13,823 RESPONSE: SUCCESS, Interface: C3/0/6, TotalDevices: 863, MessageSize(KB): 58.7
+08:03:10,821 RESPONSE: SUCCESS, Interface: C3/0/5, TotalDevices: 503, MessageSize(KB): 35.0
+08:03:07,817 RESPONSE: SUCCESS, Interface: C3/0/4, TotalDevices: 932, MessageSize(KB): 62.06
+08:03:04,815 RESPONSE: SUCCESS, Interface: C3/0/3, TotalDevices: 616, MessageSize(KB): 42.05
+08:03:01,811 RESPONSE: SUCCESS, Interface: C3/0/2, TotalDevices: 584, MessageSize(KB): 41.23
+08:02:58,807 RESPONSE: SUCCESS, Interface: C3/0/1, TotalDevices: 762, MessageSize(KB): 53.77
+08:02:55,803 RESPONSE: SUCCESS, Interface: C3/0/0, TotalDevices: 139, MessageSize(KB): 9.33
+08:02:52,800 RESPONSE: SUCCESS, Interface: C2/0/7, TotalDevices: 26, MessageSize(KB): 2.11
+08:02:49,796 RESPONSE: SUCCESS, Interface: C2/0/6, TotalDevices: 637, MessageSize(KB): 44.18
+08:02:46,794 RESPONSE: SUCCESS, Interface: C2/0/5, TotalDevices: 700, MessageSize(KB): 47.05
+08:02:43,790 RESPONSE: SUCCESS, Interface: C2/0/4, TotalDevices: 992, MessageSize(KB): 65.99
+08:02:40,786 RESPONSE: SUCCESS, Interface: C2/0/3, TotalDevices: 433, MessageSize(KB): 29.59
+08:02:37,784 RESPONSE: SUCCESS, Interface: C2/0/2, TotalDevices: 1846, MessageSize(KB): 124.79
+08:02:34,780 RESPONSE: SUCCESS, Interface: C2/0/1, TotalDevices: 716, MessageSize(KB): 47.79
+08:02:31,777 RESPONSE: SUCCESS, Interface: C2/0/0, TotalDevices: 772, MessageSize(KB): 50.99
+08:02:28,774 RESPONSE: SUCCESS, Interface: C1/0/7, TotalDevices: 637, MessageSize(KB): 43.03
+08:02:25,769 RESPONSE: SUCCESS, Interface: C1/0/6, TotalDevices: 842, MessageSize(KB): 60.09
+08:02:22,766 RESPONSE: SUCCESS, Interface: C1/0/5, TotalDevices: 350, MessageSize(KB): 23.35
+08:02:19,762 RESPONSE: SUCCESS, Interface: C1/0/4, TotalDevices: 389, MessageSize(KB): 24.42
+08:02:16,759 RESPONSE: SUCCESS, Interface: C1/0/3, TotalDevices: 516, MessageSize(KB): 34.18
+08:02:13,755 RESPONSE: SUCCESS, Interface: C1/0/1, TotalDevices: 429, MessageSize(KB): 27.12
+08:02:10,750 RESPONSE: SUCCESS, Interface: C1/0/0, TotalDevices: 94, MessageSize(KB): 6.54"""
+
+print(data)
